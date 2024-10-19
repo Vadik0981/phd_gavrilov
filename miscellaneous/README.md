@@ -1,3 +1,3 @@
 ## `miscellaneous`
 
-While the other directories in this repository are focused on code and data, this folder can serve as laboratory notebook where you can write down various details about your project. I find it useful to break this up by section where I can easily share a direct link if someone asks for a protocol. 
+В то время как другие каталоги в этом хранилище сосредоточены на коде и данных, эта папка может служить лабораторным блокнотом, в который можно записывать различные детали проекта. Я считаю полезным разбить это на разделы, где можно легко поделиться прямой ссылкой

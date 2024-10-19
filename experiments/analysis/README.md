@@ -1,7 +1,7 @@
 ## `analysis`
 
-Much as executed code should be separated from code that is called, the analysis of your data should be separate from the processing. In this folder,you should have a collection of scripts and/or notebooks that use preprocessed data to draw conclusions or calculate quantities that will be reported. 
+* Анализ данных должен быть отделен от обработки. В этой папке находится коллекция скриптов и/или ноутбуков, в которых используются предварительно обработанные данные для составления выводов или расчета количественных показателей, которые будут представлены в работе. 
 
-In many fields, processing of raw data is the bottle neck of research. Processing images, reading and cleaning large data sets, or running simulations can often take considerable amounts of time. While you may fiddle with different ways of analyzing your data (once you have an idea of how to answer your scientific question), you usually don't want to reprocess everything you've taken thus far.
+* Во многих областях обработка необработанных данных является узким местом исследований. Обработка изображений, чтение и очистка больших массивов данных или выполнение моделирования часто могут занимать значительное количество времени. Хотя можно экспериментировать с различными способами анализа ваших данных (как только появится представление о том, как ответить на научный вопрос), обычно не хочется переделывать все, что было сделано до сих пор.
 
-By following this structure, the creating, transformation, and interpretation of data are kept separate and clear to anyone trying to follow your thought process. 
+* Благодаря такой структуре создание, преобразование и интерпретация данных выполняются отдельно и понятны любому, кто пытается проследить за ходом мысли.

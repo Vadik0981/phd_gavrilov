@@ -1,5 +1,5 @@
 ## `figures`
 
-All figures containing data should be stored here, preferably labeled with a descriptive file name that also points to the correct figure, e.g. `Fig1_power_spectrum.py`. 
+Все рисунки, содержащие данные, должны храниться здесь, предпочтительно с описательным именем файла, которое также указывает на правильный рисунок, например, "Fig1_power_spectrum.py`. 
 
-Figure scripts should not perform any data processing, data generation, or inference whenever possible. This maintains a separation between each layer of the scientific method in a clear and reproducible way. Keeping figure generation separate from other parts of the scientific pipeline allows for simple modification of figures, such as correcting axis labels, without needing to rerun the processing and analysis steps.
+Сценарии рисунков не должны выполнять никакой обработки данных, генерации данных или вывода, когда это возможно. Это обеспечивает четкое и воспроизводимое разделение между всеми уровнями научного метода. Создание рисунков отдельно от других частей научного конвейера позволяет легко изменять рисунки, например, корректировать метки осей, без необходимости повторного выполнения этапов обработки и анализа.
